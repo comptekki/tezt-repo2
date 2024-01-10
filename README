@@ -8,6 +8,14 @@ line 3
 line 4
 line n
 
+if true then
+ do stuff
+else
+ do stuff
+
+for loop 1 to 4
+ do stuff
+
 the end
 
-v1.5
+v1.6
